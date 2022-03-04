@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: 'UA-134826755-2', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `이동훈`,
     bio: {
-      role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      role: `솔이 오빠`,
+      description: ['홈런볼을 좋아하는', '경영인데 IT인척 하는', '자는 것을 좋아하는'],
       thumbnail: 'zoomkoding.gif', // Path to the image in the 'asset' folder
     },
     social: {
