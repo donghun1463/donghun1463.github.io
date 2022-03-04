@@ -14,7 +14,7 @@ module.exports = {
     name: `이동훈`,
     bio: {
       role: `솔이 오빠`,
-      description: ['홈런볼을 좋아하는', '경영인데 IT인척 하는', '자는 것을 좋아하는'],
+      description: ['홈런볼을 좋아하는', '경영인데 IT인척 하는척하는', '자는 것을 좋아하는'],
       thumbnail: 'zoomkoding.gif', // Path to the image in the 'asset' folder
     },
     social: {
